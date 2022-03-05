@@ -5,7 +5,6 @@ I'm currently working on interesting AI projects
 - Daily Weather Forecast
 
 
-#### Experiences
 ---
 #### Language
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
